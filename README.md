@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá, eu sou o Ricardo Albuquerque 👋
 
-<!--
-**ridibrito/ridibrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️  Hoje estou trabalhando em projetos pessoais
+- 📚 Estudando Typscript e Prisma ORM
+- 🏃‍♂️ Aperfeiçoando sempre Javascript e React.
+- 🪄 Entendendo as maravilhas das animações em css.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ricardo Albuquerque GitHub stats](https://github-readme-stats.vercel.app/api?username=ridibrito&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridibrito&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" height="30" width="40" alt="html" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" height="30" width="40" alt="htmlricardo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" height="30" width="40" alt="htmlricardo" />
+    <img src="https://www.svgrepo.com/show/354259/react.svg" height="30" width="40" alt="htmlricardo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" height="30" width="40" alt="htmlricardo" />
+    <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="30" width="40" alt="htmlricardo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="40" alt="htmlricardo" />
+</div>
