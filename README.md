@@ -21,5 +21,5 @@
 </div>
 <br>
 
-**Conheça meu portfólio**&nbsp&nbsp
+**Conheça meu portfólio**
 <https://ricardoalbuquerque.com>
